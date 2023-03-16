@@ -1,0 +1,29 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*
+G04 #@! TF.CreationDate,2023-03-16T04:22:28+02:00*
+G04 #@! TF.ProjectId,connector-pcb,636f6e6e-6563-4746-9f72-2d7063622e6b,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Other,Comment*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-03-16 04:22:28*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.150000*%
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.C,H1*
+X67200000Y-74000000D02*
+G75*
+G03*
+X67200000Y-74000000I-3200000J0D01*
+G01*
+G04 #@! TO.C,H2*
+X138200000Y-74000000D02*
+G75*
+G03*
+X138200000Y-74000000I-3200000J0D01*
+G01*
+G04 #@! TD*
+M02*

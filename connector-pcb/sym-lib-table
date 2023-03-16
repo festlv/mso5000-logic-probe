@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mso5000")(type "KiCad")(uri "${KIPRJMOD}/../mso5000.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,25 @@
+Drill report for connector-pcb.kicad_pcb
+Created on Thu Mar 16 04:22:28 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'connector-pcb.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (143 holes)
+    T2  0.500mm  0.0197"  (16 holes)
+    T3  1.000mm  0.0394"  (98 holes)
+    T4  3.200mm  0.1260"  (2 holes)
+
+    Total plated holes count 259
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
