@@ -1,4 +1,4 @@
-# MSO5000 logic analyze probe
+# MSO5000 logic analyzer probe
 
 This project aims to be a somewhat lower performance but significantly cheaper alternative to Rigol's PLA2216 
 logic analyzer probe for MSO5000-series oscilloscopes.
