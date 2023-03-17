@@ -3642,7 +3642,7 @@
     (property "Value" "IDC_HEADER_2x12" (at 196.85 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_IDC:IDC-Header_2x12_P2.54mm_Vertical" (at 195.58 48.26 0)
+    (property "Footprint" "idc:IDC-Header_2x12_P2.54mm_Vertical" (at 195.58 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 195.58 48.26 0)

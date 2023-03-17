@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "idc")(type "KiCad")(uri "/home/reinis/personal/mso5000-logic/idc.pretty")(options "")(descr ""))
+)
