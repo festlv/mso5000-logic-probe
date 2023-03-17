@@ -68,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "connector-pcb.kicad_prl",
+    "filename": "probe-pcb.kicad_prl",
     "version": 3
   },
   "project": {

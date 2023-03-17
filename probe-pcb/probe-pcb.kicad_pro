@@ -91,7 +91,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "ignore",
+        "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -118,7 +118,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
-        "min_resolved_spokes": 1,
+        "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7,
         "min_text_thickness": 0.08,
@@ -172,9 +172,7 @@
         }
       ],
       "track_widths": [
-        0.0,
-        0.0,
-        0.4
+        0.0
       ],
       "via_dimensions": [
         {
@@ -407,7 +405,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "connector-pcb.kicad_pro",
+    "filename": "probe-pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -415,9 +413,9 @@
       {
         "bus_width": 12,
         "clearance": 0.2,
-        "diff_pair_gap": 0.2,
+        "diff_pair_gap": 0.4,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.4,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -484,7 +482,7 @@
   },
   "sheets": [
     [
-      "99f28b7b-65f5-40a1-b1c3-497eb1a63531",
+      "6fbe8539-9d69-48ff-abd5-b67d2d62b65d",
       ""
     ]
   ],

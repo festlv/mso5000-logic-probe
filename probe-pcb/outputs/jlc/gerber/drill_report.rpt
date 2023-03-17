@@ -1,0 +1,24 @@
+Drill report for probe-pcb.kicad_pcb
+Created on Fri Mar 17 04:05:38 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'probe-pcb.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (50 holes)
+    T2  1.000mm  0.0394"  (40 holes)
+
+    Total plated holes count 90
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T3  2.200mm  0.0866"  (2 holes)
+
+    Total unplated holes count 2
