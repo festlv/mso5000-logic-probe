@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/reinis/personal/mso5000-logic/probe-pcb/probe-pcb.kicad_sch</source>
-    <date>Fri 17 Mar 2023 04:05:39 AM EET</date>
+    <date>Sat 18 Mar 2023 02:10:12 AM EET</date>
     <tool>Eeschema 7.0.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -158,17 +158,17 @@
       <tstamps>ba52c9d5-b3d5-4a48-8e15-a21fb2e56e94</tstamps>
     </comp>
     <comp ref="D1">
-      <value>3.6V 2%</value>
+      <value>3.9V 5%</value>
       <footprint>Diode_SMD:D_SOD-323</footprint>
       <fields>
-        <field name="LCSC#">C116949</field>
-        <field name="MPN">MM3Z3V6T1G</field>
-        <field name="Manufacturer">onsemi</field>
+        <field name="LCSC#">C5359777</field>
+        <field name="MPN">MM3Z3V9</field>
+        <field name="Manufacturer">Fosan</field>
       </fields>
       <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
-      <property name="LCSC#" value="C116949"/>
-      <property name="MPN" value="MM3Z3V6T1G"/>
-      <property name="Manufacturer" value="onsemi"/>
+      <property name="LCSC#" value="C5359777"/>
+      <property name="MPN" value="MM3Z3V9"/>
+      <property name="Manufacturer" value="Fosan"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="probe-pcb.kicad_sch"/>
       <property name="ki_description" value="Zener diode, small symbol"/>
@@ -238,7 +238,7 @@
     </comp>
     <comp ref="J2">
       <value>IDC_HEADER_2x12</value>
-      <footprint>Connector_IDC:IDC-Header_2x12_P2.54mm_Vertical</footprint>
+      <footprint>idc:IDC-Header_2x12_P2.54mm_Vertical</footprint>
       <fields>
         <field name="LCSC#">C132440</field>
         <field name="MPN">B-3000S24P-0110</field>
