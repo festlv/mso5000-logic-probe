@@ -21,7 +21,13 @@ Do note that the propagation delay for lower input voltages can limit the observ
 
 ## Current status
 
-Revision 0 of both PCBAs is finished and pending fabrication. **This design is not yet built and tested!**
+Revision 0 of both PCBAs has been assembled and passed basic function checks. The only required change was that series resistor
+for ProbeDet signal was apparently too high (10K->100R).
+
+Do keep in mind that the threshold level set in scope is not executed faitfhully- it's essentially amplified with a gain of 16.8
+and provided as Vcc for SN74AXC8T245. See the datasheet of SN74AXC8T245 and connector-pcb/threshold-vcc-gain-calc.ods spreadsheet for details.
+
+![pcb pics](doc/pcb-pic.jpg)
 
 ## Connector PCB
 
