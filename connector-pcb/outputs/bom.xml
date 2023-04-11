@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/reinis/personal/mso5000-logic/connector-pcb/connector-pcb.kicad_sch</source>
-    <date>Sat 18 Mar 2023 02:09:21 AM EET</date>
+    <date>Tue 11 Apr 2023 07:54:40 PM EEST</date>
     <tool>Eeschema 7.0.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -347,16 +347,16 @@
       <tstamps>26de1705-cc13-43c9-ac55-3857060be43b</tstamps>
     </comp>
     <comp ref="R9">
-      <value>10K</value>
+      <value>100R</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="LCSC#">C98220</field>
-        <field name="MPN">RC0603FR-0710KL</field>
+        <field name="LCSC#">C105588</field>
+        <field name="MPN">RC0603FR-07100RL</field>
         <field name="Manufacturer">YAGEO</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC#" value="C98220"/>
-      <property name="MPN" value="RC0603FR-0710KL"/>
+      <property name="LCSC#" value="C105588"/>
+      <property name="MPN" value="RC0603FR-07100RL"/>
       <property name="Manufacturer" value="YAGEO"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="connector-pcb.kicad_sch"/>
